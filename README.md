@@ -3,7 +3,7 @@ End-to-End Excel Data Analytics &amp; Dashboard Project using Power Query, Power
 
 # Ferns N Petals (FNP) Sales & Delivery Analytics Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](fnp-dashboard.png)
 
 ##  Project Overview
 - **Goal:** Analyze multi-table sales and delivery performance for an online gifting platform to uncover revenue drivers, high-demand occasions, and fulfillment bottlenecks.
